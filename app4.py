@@ -241,7 +241,7 @@ st.markdown("""
 
 # --- 2. HEADER & INSTRUKSI ---
 st.markdown("<h1>321 TSD</h1>", unsafe_allow_html=True)
-st.markdown("<p class='subtitle'>Decode the Cipher. Solve the Puzzle. Escape the Room.</p>", unsafe_allow_html=True)
+st.markdown("<p class='subtitle'>Decode the Cipher. Solve the Puzzle.</p>", unsafe_allow_html=True)
 st.markdown("<div class='header-line'></div>", unsafe_allow_html=True)
 
 with st.expander("📖 CARA BERMAIN", expanded=False):
